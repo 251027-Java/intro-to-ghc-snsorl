@@ -1,4 +1,0 @@
-- hi
-- i learned nothing from this intro-to-ghc course
-  - because i already knew everything here
-- lol
